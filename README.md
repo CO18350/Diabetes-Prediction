@@ -17,4 +17,8 @@ Our objective to make this project is to predict whether the patient has diabete
    - Decision tree algorithm
    - Random Forest algorithm
  - Model Evaluation
+## Steps how to run project
+- install requirements using pip install -r requirements.txt
+- run app.py inside flask folder
+- application runs on http://127.0.0.1:5000/
 
